@@ -1,228 +1,139 @@
-# **Warren Oriya**
-### Full-Stack Engineer • AI Systems Builder • Product Architect • Cybersecurity Mindset • Student Founder
+# 👋 Hi, I'm Warren Oriya
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=38&center=true&vCenter=true&width=900&height=70&duration=4000&lines=Hello+World.;I+design+systems,+not+just+apps.;Founder+of+Campus+Connect.;AI+%7C+Security+%7C+Architecture.;Silent.+Strategic.+Relentless.;" />
-</p>
+🚀 **Founder & Full-Stack Developer | AI Builder | Creative Technologist | Student Entrepreneur**
 
-<p align="center">
-  <b>Kenya 🇰🇪 | Building high-impact platforms | Thinking in systems | Moving in silence</b>
-</p>
+I’m a passionate builder from Kenya focused on creating **real-world solutions for students** through technology. I love blending **AI, clean UI, solid backend architecture, and creativity** to build products that actually get used.
+
+Currently building **Campus Connect** – a student-focused platform for notes, communities, AI study tools, and collaboration.
 
 ---
 
-## 🕶️ About Me
+## 🔥 What I’m Working On
 
-I’m a **full-stack developer, AI systems builder, and startup founder** focused on designing **real, scalable products** — not experiments.
+### 🎓 Campus Connect (Flagship Project)
+A complete student ecosystem designed to simplify campus life.
 
-I don’t just code features.  
-I design **flows, architectures, and ecosystems**.
-
-Founder of **Campus Connect** — a student intelligence platform blending:
-- AI  
-- structured learning  
-- communities  
-- real campus behavior  
-- and strategic growth systems
-
-I’m deeply interested in:
-- **AI-driven systems**
-- **clean architecture**
-- **security & hacking mindset**
-- **product psychology**
-- **strategic platform design**
-
-> *I build quietly. I think deeply. I ship seriously.*
-
----
-
-## ⚔️ Current Mission
-
-### **Campus Connect — Student Intelligence Platform**
-> *Your Campus Connection, Simplified.*
-
-A full-scale ecosystem designed to become the **digital backbone of university life**.
-
-**Core Capabilities**
+**Key Features:**
 - 📁 1300+ organized files & past papers (Kenyatta University)
-- 🧠 AI Study Companion (multiple personalities)
-- 🗺️ Roadmap-based Flashcards (guided learning flow)
-- 💬 Communities (Discord/Slack-style system)
-- 🤝 Silent note sharing
-- 📊 Streaks, progress tracking & commitment indicators
-- 📢 Ad & partnership system (monetization layer)
+- 🧠 AI Study Assistant (multiple personalities)
+- 🗺️ Roadmap-based Flashcards (structured learning flow)
+- 💬 Communities (Discord/Slack-style experience)
+- 🤝 Silent note sharing & group collaboration
+- 📈 Streaks, progress tracking & commitment indicators
+- 📢 Ad management & partnerships system
 
-**Architecture & Stack**
+**Tech Stack:**
 - React Native (Expo)
 - TypeScript
 - Node.js
 - Encore.ts
 - Drizzle ORM
 - Stream SDK
-- AI integrations (OpenAI, Gemini)
-- Figma-driven UI architecture
+- AI integrations
+- Figma (UI/UX)
 
-> **Goal:** Build the most powerful student platform in Africa.
+> Goal: Build the most useful student app in Africa.
 
 ---
 
-## 🧠 Technical Arsenal
-
-### Languages
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+## 🧠 Skills & Focus Areas
 
 ### Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Expo](https://img.shields.io/badge/-Expo-000000?style=flat-square&logo=expo&logoColor=white)
-![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+- React Native (Expo)
+- UI/UX Implementation from Figma
+- Component Architecture
+- Clean, scalable design systems
 
 ### Backend
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Encore.ts](https://img.shields.io/badge/-Encore.ts-000000?style=flat-square)
-![Drizzle ORM](https://img.shields.io/badge/-Drizzle_ORM-000000?style=flat-square)
+- Node.js
+- Encore.ts
+- Drizzle ORM
+- REST APIs
+- Auth & permissions
+- Scalable schema design
 
-### AI & Systems
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/-Gemini_AI-4285F4?style=flat-square)
-![AI](https://img.shields.io/badge/-AI_Systems-000000?style=flat-square)
+### AI & Automation
+- AI chat systems
+- Prompt engineering
+- AI-powered flashcards
+- AI study companions
+- AI workflows in apps
 
-### Tools
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code)
-
----
-
-## 🧩 Real Projects & Repositories
-
-### **Campus Connect (Private Repos)**
-- `CCCommunity` – communities architecture (Discord/Slack-style)
-- `streaks` – commitment & progress tracking system
-- `uni-doc-scribe` – document handling & study flow logic
-- `adspire-connect` – ad & partnership layer
-- `qr-joy-launchpad` – QR-based onboarding / flows
-- `raydawn-portfolio-pilot` – product & UI experiments
-
-> These repos reflect my focus on **platform design, not just UI screens.**
+### Product & Strategy
+- Startup strategy
+- User growth planning
+- Feature prioritization
+- MVP → Scale thinking
 
 ---
 
-### **Texas Kenyan Poker Systems**
-- `texas-kenyan-poker`
-- `texas-kenyan-poker-261d7059`
+## 🕵️ Creative & Side Projects
 
-Structured logic for Kenyan poker rules, turn flow, game states & system behavior.
+### 🎭 Mystery Faith Skit – *"Who Did It?"*
+A symbolic detective-style play using characters like **Fear, Pride, Doubt, Faith, Joy, Humble** to explore inner spiritual battles.
 
----
-
-### **Admin & Control Systems**
-- `rayd-admins` (Public)
-- `rd-admin` (Public)
-
-Admin dashboards & control layers for internal systems.
+- Written, structured & performed live
+- Integrated with a 12-week church teaching series
+- Combined storytelling + symbolism + faith
 
 ---
 
-### **E-commerce & Business Systems**
-- `nextjs-commerce`
-- `sassy`
-- `sassy-classy-wears`
-- `sassy-classy-wear`
-
-Product flows, UI logic, and business structure systems.
-
-Also contributed **Python** to an e-commerce project.
+### ♠️ Kenyan Rules Poker Guide
+Currently structuring and documenting Kenyan-style poker rules in a clear, teachable format.
 
 ---
 
-### **Public Utility Projects**
-- `wifastinternet` – JavaScript project
-- `practice` – experimentation & learning
-- `Lonerkidd` – active repo (recent updates)
+### 🔐 Cybersecurity Learning Path
+Actively learning:
+- Penetration testing
+- Ethical hacking
+- TryHackMe labs
+- Network security fundamentals
 
----
-
-## 🕵️ Cybersecurity Path
-
-Actively building a **hacker mindset** through:
-- penetration testing concepts  
-- ethical hacking labs  
-- network security fundamentals  
-- threat modeling  
-
-> I believe every serious developer should think like an attacker.
-
----
-
-## 🕵️ Creative & Strategic Work
-
-### **“Who Did It?” — Mystery Faith Skit**
-A symbolic detective-style story using characters:
-**Fear, Pride, Doubt, Faith, Joy, Humble**
-
-- Written & structured by me  
-- Performed live  
-- Integrated into a 12-week teaching series  
-- Heavy psychological & symbolic depth  
-
-This reflects my interest in:
-- human psychology  
-- internal conflict modeling  
-- narrative systems  
+Goal: Become **dangerously good** in security alongside development.
 
 ---
 
 ## 🧩 How I Think
 
-- Architecture before features  
-- Systems before shortcuts  
-- Strategy before speed  
-- Clarity before complexity  
-
-I’m obsessed with:
-- clean flows  
-- scalable structures  
-- and platforms that **don’t collapse under growth**
+- I care about **architecture, not just features**
+- I design for **real users, not theory**
+- I build things that **scale, not break**
+- I mix **logic + creativity** in everything I do
+- Inspired by strategic thinkers (yes… Thomas Shelby energy 😄)
 
 ---
 
-## 📈 GitHub Stats
+## 🛠 Tools I Use
 
-<p align="center">
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=Lonerkidd&show_icons=true&theme=react&border_radius=10" />
-  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=Lonerkidd&theme=react&border_radius=10" />
-</p>
-
-<p align="center">
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lonerkidd&layout=compact&theme=react&border_radius=10" />
-</p>
+- VS Code
+- Git & GitHub
+- Figma
+- Postman
+- Expo
+- Stream SDK
+- Drizzle ORM
+- Encore.ts
 
 ---
 
 ## 🌍 Vision
 
 To build:
-- high-impact African tech products  
-- AI-powered learning systems  
-- platforms that outlive me  
-
-Not noise.  
-Not hype.  
-**Legacy systems.**
+- Powerful student tools
+- Scalable African tech products
+- AI-driven learning systems
+- Platforms that actually change lives
 
 ---
 
-## 🤝 Let’s Connect
+## 📫 Let’s Connect
 
-- GitHub: https://github.com/Lonerkidd  
-- Projects: **Campus Connect**, AI systems, cybersecurity work & more  
-- Always open to: collaboration, strategy, serious ideas
+- GitHub: [You’re here 😄]
+- Projects: Campus Connect & more coming soon
+- Always open to: collaboration, ideas, feedback
 
 ---
 
-> *“I don’t chase trends. I build foundations.”*  
-> — Warren Oriya
+> *"Build things that matter. Build them properly."* 💙
+
